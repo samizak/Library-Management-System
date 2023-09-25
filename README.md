@@ -1,6 +1,6 @@
 #  Library Management System
 
-# Local setup
+## Local setup
 
 Step 1: Download or clone the source code from GitHub to the local machine
 

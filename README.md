@@ -1,5 +1,7 @@
 #  Library Management System
 
+A Library Management System created in Java.
+
 ## Local setup
 
 Step 1: Download or clone the source code from GitHub to the local machine

@@ -16,4 +16,4 @@ Step 6:  ```mvn spring-boot:run```
 
 Step 7: From the browser call the endpoint http://localhost:9080
 
-Step 8: Admin Login User Id: ```admin``` & Password: ```admin```
+Step 8: Admin Login details: Username: `admin` and Password: `admin`
